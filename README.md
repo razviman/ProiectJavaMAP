@@ -1,5 +1,7 @@
 🍰 Funcționalități principale
+
 ✅ Gestionarea torturilor
+
 Adăugare, editare, ștergere torturi
 Afișare listă torturi
 ✅ Gestionarea comenzilor
